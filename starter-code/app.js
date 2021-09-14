@@ -239,4 +239,4 @@ Student.prototype.scopeArrow = () => console.log(this);
 // 2. What is "this" when joe.scopeArrow() is invoked?
 // Window
 // 3. Explain why "this" is different when an arrow function is used.
-// refare to the place that it is writen inside as a parent and in our case it is the Window
+// refare to the place that it is writen inside as a parent and in our case it is the Window!!
